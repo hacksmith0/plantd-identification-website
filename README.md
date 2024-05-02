@@ -1,2 +1,4 @@
-# plantd-identification-website
-this project contains details about plants and their pictures
+# Plant-Nursery-Website
+Plant-Nursery-Website
+
+## Demo: https://areebghani.github.io/Plant-Nursery-Website/
